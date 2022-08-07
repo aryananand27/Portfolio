@@ -39,7 +39,7 @@ body{animation: 2s ease-out 0s 1 FadeIn;}
     position: relative;
     width: 100%;
     height: 50vw;
-    background-image: url("./Images/me1.png");
+    background-image: url("me1.png");
     background-size:contain;
     box-shadow: inset -40vw 0 30vw -6vw #33353d;
     margin-top: 0%;
